@@ -6,10 +6,6 @@ import glsl from "@mkhatib/babel-plugin-glsl/macro";
 import { Suspense } from "react";
 import Image from "next/image";
 
-//IMG
-import earthMap from "../public/earthMap.jpeg";
-import specularMap from "../public/specularmap.jpg";
-import toneMap from "../public/specularmap2.jpg";
 
 //CSS
 import SceneStyles from "../styles/Scene.module.css";
